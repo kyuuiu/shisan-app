@@ -1,11 +1,11 @@
 {
-    "name": "shisan_app",
-    "short_name": "shisan_app",
+    "name": "しずく資産",
+    "short_name": "しずく資産",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#2f6fe0",
+    "theme_color": "#2f6fe0",
+    "description": "口座連携なし・手入力でシンプルに資産を管理。データは端末内だけ。",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
